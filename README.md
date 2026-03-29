@@ -90,7 +90,7 @@ This ensures smooth and efficient real-time operation.
 
 ## 🎥 Demo Video
 
-[Watch Video](https://youtube.com/shorts/Zpm1GEmlM7s?feature=share)
+[Watch Video](https://youtube.com/shorts/I22JAEUiMpQ?feature=share)
 
 ---
 
