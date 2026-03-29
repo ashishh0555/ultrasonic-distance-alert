@@ -1,4 +1,4 @@
-# Ultrasonic Distance Alert System
+#Smart Multi-Level Distance Alert System using Arduino
 
 ## 📌 Description
 
