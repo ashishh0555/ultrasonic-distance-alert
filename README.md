@@ -82,6 +82,33 @@ The complete Arduino code is available in the file:
 
 ---
 
+## 🧠 System Design
+
+Input → Ultrasonic Sensor  
+Processing → Distance calculation + threshold logic  
+Output → LED indicators + buzzer alerts  
+
+This project demonstrates a real-time embedded system with multi-level decision making.
+
+---
+
+## 📊 Design Decisions
+
+- Thresholds (10cm, 30cm) chosen for practical alert ranges  
+- Red LED indicates danger, Green indicates safe state  
+- Buzzer frequency varies based on urgency
+
+---
+
+## 💡 Learning Outcomes
+
+- Sensor integration  
+- Real-time decision logic  
+- Hardware-software interaction  
+- Embedded system design basics
+
+---
+
 ## 🔧 Future Improvements
 
 * Add LCD display for distance
