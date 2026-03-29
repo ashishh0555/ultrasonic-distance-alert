@@ -53,7 +53,7 @@ void loop() {
         tone(buzzer, 1000);
       }
 
-      // ⚠️ WARNING (10–30 cm)
+      // WARNING (10–30 cm)
       else {
         digitalWrite(led2, LOW);
 
